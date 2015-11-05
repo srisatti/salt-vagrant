@@ -1,6 +1,6 @@
 # salt-vagrant
 
-To test the salt-api pagerduty integration
+To test the salt-api pagerduty integration (Test)
 
 * bring up the salt master (master) & two minions (minion1, minion2) `vagrant up`
 * run the highstate on master to setup the salt-api `salt-call state.highstate`
